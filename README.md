@@ -25,4 +25,4 @@ Me Chamo Thamyra Godoi ☕  Seja bem vindo (a)
     
   ![Snake animation](https://github.com/Thamyra0/Thamyra0/blob/output/github-contribution-grid-snake.svg)
    
-      </div>
+      
