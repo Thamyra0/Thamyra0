@@ -1,6 +1,4 @@
-Oi 
-Tudo bem? 
-Me Chamo Thamyra Godoi ☕  Seja bem vindo (a) 
+  ☕  Seja bem vindo (a) 
 
 - 💻 Atualmente estou aprendendo javascript
 - 🎭 Pronouns: ela/dela
